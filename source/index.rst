@@ -20,7 +20,5 @@ Nexbit
    docs/7.AI_Vision_Game.md
    docs/8.Mechanical_claw_control_course.md
    docs/9.sensor_expansion_course.md
+   docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1XamvFyWuhXNhakhJBLqwt6KqcFzFVo3o?usp=sharing>
-
-
-
